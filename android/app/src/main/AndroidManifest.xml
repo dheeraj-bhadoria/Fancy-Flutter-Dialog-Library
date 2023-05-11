@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.fancy_flutter_dialog">
+    package="com.dheeruapps.fancy_flutter_dialog">
    <application
         android:label="fancy_flutter_dialog"
         android:name="${applicationName}"
